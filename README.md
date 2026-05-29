@@ -38,9 +38,13 @@ Currently exploring:
 ---
 
 ## 📌 Current Projects
-🔹 Arduino Radar System  
-🔹 ESP32 DHT11 Weather Station  
-🔹 Dual Axis Solar Tracker *(In Progress)*  
+
+🔹 [Arduino Radar System](https://github.com/shivanshu0524/Arduino-Radar-System)
+
+🔹 [ESP32 DHT11 Weather Station](https://github.com/shivanshu0524/ESP32-DHT11-Weather-Station)
+
+🔹 Dual Axis Solar Tracker *(In Progress)*
+
 🔹 Smart Energy Theft Detection System *(In Progress)*
 
 ---
