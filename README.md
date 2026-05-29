@@ -63,7 +63,7 @@ Currently exploring:
 ---
 
 ## 📫 Connect With Me
-LinkedIn: *(https://www.linkedin.com/in/shivanshu0524*
+LinkedIn: *https://www.linkedin.com/in/shivanshu0524*
 
 ---
 
