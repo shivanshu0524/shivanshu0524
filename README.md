@@ -38,7 +38,7 @@ I've worked with Arduino, ESP32, the 8051 microcontroller, and Raspberry Pi, and
 
 ## 🚀 Projects
 
-### ☀️ Single-Axis Solar Tracker Using 8051
+### ☀️ [Dual-Axis Solar Tracker Using 8051](https://github.com/shivanshu0524/dual-axis-solar-tracker)
 A completed solar tracking project using an 8051 microcontroller as the main controller and an Arduino Nano for reading analog light sensor values.
 
 **Technologies:** 8051, Arduino Nano, LDR Sensors, Servo Motor
